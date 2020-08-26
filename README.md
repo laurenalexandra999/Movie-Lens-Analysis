@@ -1,2 +1,2 @@
-# MovieLens_Data_Analysis
-UT exploratory data analysis project
+# Movie Lens Analysis
+PGP-AIML at UT Austin exploratory data analysis
